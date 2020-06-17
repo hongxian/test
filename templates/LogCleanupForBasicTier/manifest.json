@@ -1,0 +1,20 @@
+{
+	"name": "LogCleanupForBasicTier",
+	"image": "<svg width=\"400px\" height=\"240px\" viewBox=\"0 0 400 240\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\"><g transform=\"matrix(1, 0, 0, 1, 0, 0)\" clip-path=\"url(#mainClip11186)\"><g transform=\"matrix(0.8438005116845446, 0, 0, 0.8438005116845446, 114.35424806401872, 84.21900255842272)\"><g transform=\"matrix(1, 0, 0, 1, 0, 0)\"><g transform=\"matrix(1, 0, 0, 1, 0, 0)\"><g transform=\"matrix(1, 0, 0, 1, 0, 0)\"><path d=\"M 2,0 L 191,0 C 191.89543050033842,0 193,1.1045694996615871 193,2 L 193,81.80913899932317 C 193,82.70456949966157 191.89543050033842,83.80913899932317 191,83.80913899932317 L 2,83.80913899932317 C 1.1045694996615871,83.80913899932317 0,82.70456949966157 0,81.80913899932317 L 0,2 C 0,1.1045694996615871 1.1045694996615871,0 2,0 z\" fill=\"transparent\" stroke=\"none\" transform=\"matrix(1, 0, 0, 1, 0.5, 0.5)\"/><path d=\"M 2,0 L 191,0 C 191.89543050033842,0 193,1.1045694996615871 193,2 L 193,81.80913899932317 C 193,82.70456949966157 191.89543050033842,83.80913899932317 191,83.80913899932317 L 2,83.80913899932317 C 1.1045694996615871,83.80913899932317 0,82.70456949966157 0,81.80913899932317 L 0,2 C 0,1.1045694996615871 1.1045694996615871,0 2,0 z\" fill=\"none\" stroke=\"#C8C8C8\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" transform=\"matrix(1, 0, 0, 1, 0.5, 0.5)\"/><g transform=\"matrix(1, 0, 0, 1, 0, 0)\" clip-path=\"url(#CLIP11187)\"><g transform=\"matrix(1, 0, 0, 1, 0.2000000000000106, 1.60456949966158)\"><g transform=\"matrix(1, 0, 0, 1, 0.8, 0.8)\"><rect x=\"0\" y=\"0\" width=\"192\" height=\"80\" fill=\"#F4F4F4\" stroke=\"none\" transform=\"matrix(1, 0, 0, 1, 0, 0)\"/><g transform=\"matrix(1, 0, 0, 1, 0, 0)\"><rect x=\"0\" y=\"0\" width=\"192\" height=\"25\" fill=\"#DCDCDC\" stroke=\"none\" transform=\"matrix(1, 0, 0, 1, 0, 0)\"/><g transform=\"matrix(1, 0, 0, 1, 0, 0)\" clip-path=\"url(#CLIP11188)\"><text x=\"0\" y=\"10.506005859375001\" style=\"font: 12px Segoe UI\" text-anchor=\"start\" fill=\"#515151\" stroke=\"none\" transform=\"matrix(1, 0, 0, 1, 5, 6.5)\">Stored procedure</text></g></g><g transform=\"matrix(1, 0, 0, 1, 0, 25)\"><g transform=\"matrix(1, 0, 0, 1, 0, 0)\"><g transform=\"matrix(1, 0, 0, 1, 10, 13)\"><path d=\"M 3,3 L 3,27 L 27,27 L 27,3 L 3,3 z M 25.5,25.5 L 4.5,25.5 L 4.5,10.5 L 25.5,10.5 L 25.5,25.5 z M 25.5,9 L 4.5,9 L 4.5,4.5 L 25.5,4.5 L 25.5,9 z M 7.5,16.5 L 16.5,16.5 L 16.5,18 L 7.5,18 L 7.5,16.5 M 18,16.5 L 22.5,16.5 L 22.5,18 L 18,18 L 18,16.5 M 13.5,19.5 L 22.5,19.5 L 22.5,21 L 13.5,21 L 13.5,19.5 M 7.5,19.5 L 12,19.5 L 12,21 L 7.5,21 L 7.5,19.5 M 7.5,13.5 L 22.5,13.5 L 22.5,15 L 7.5,15 L 7.5,13.5\" fill=\"#212121\" stroke=\"none\" transform=\"matrix(1, 0, 0, 1, 0, 0)\"/></g><g transform=\"matrix(1, 0, 0, 1, 50, 20.828662109375003)\"><text x=\"0\" y=\"12.257006835937501\" style=\"font: 14px Segoe UI\" text-anchor=\"start\" fill=\"black\" stroke=\"none\" transform=\"matrix(1, 0, 0, 1, 0, 0)\">Stored procedure1</text></g></g></g></g></g></g></g></g><g transform=\"matrix(1, 0, 0, 1, 194, 1.4045694996615836)\"><g transform=\"matrix(1, 0, 0, 1, 0, 34)\"><g transform=\"matrix(1, 0, 0, 1, 0, 0)\"><path d=\"M 0,0 L 9,0 L 9,12 L 0,12 z\" fill=\"#488E50\" stroke=\"none\" transform=\"matrix(1, 0, 0, 1, 0, 1)\"/></g></g></g></g></g></g><clipPath id=\"mainClip11186\"><rect x=\"0\" y=\"0\" width=\"400\" height=\"240\"/></clipPath><clipPath id=\"CLIP11187\"><path d=\"M 1.1045694996615871,1.1045694996615871 L 192.89543050033842,1.1045694996615871 L 192.89543050033842,83.70456949966157 L 1.1045694996615871,83.70456949966157 z\" transform=\"matrix(1, 0, 0, 1, 0, 0)\"/></clipPath><clipPath id=\"CLIP11188\"><path d=\"M 5,6.5 L 192,6.5 L 192,25 L 5,25 z\" transform=\"matrix(1, 0, 0, 1, 0, 0)\"/></clipPath></svg>",
+	"icons": [
+		"SqlServerStoredProcedure"
+	],
+	"requires": {
+		"linkedservices": {
+			"linkedService8": {
+				"supportTypes": [
+					"AzureSqlDatabase"
+				]
+			}
+		}
+	},
+	"author": "hoyao@microsoft.com",
+	"annotations": [],
+	"services": [],
+	"categories": []
+}
